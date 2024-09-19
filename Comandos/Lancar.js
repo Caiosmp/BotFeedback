@@ -7,7 +7,7 @@
     module.exports = {
         data: new SlashCommandBuilder()
             .setName('setar_embed')
-            .setDescription('Configura a embed de avaliação no canal.'),
+            .setDescription('Envia a embed de avaliação no canal.'),
 
         async execute(interaction) {
             // Verifica se já existe uma embed personalizada global, caso contrário, envia uma mensagem
