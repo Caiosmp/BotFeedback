@@ -1,13 +1,13 @@
 {
-  "token": "COLE O SEU TOKEN AQUI",
+  "token": "seu-discord-token-aqui",
   "embedColor": 25343,
-  "feedbackChannelId": "COLE O ID DO CANAL PRA ONDE VAI OS FEEDBACKS AQUI",
-  "clientRoleId": "COLE O ID DO CARGO DO CLIENTE",
-  "staffRoleId": "COLE O ID DO CARGO DE STAFF",
-  "botImage": "https://media.discordapp.net/attachments/1060766951326097448/1276928333447172196/IMG_9686.jpg?ex=66cb4fae&is=66c9fe2e&hm=86b39b043beae2fd889fb0946ccc3215bbc8c4fa3a20c9d4a7ee82a5c7af81ce&",
-  "embedTitle": "AVALIE JÁ O NOSSO SERVIÇO!",
-  "botName": "FEEDBACKS (PODE ALTERAR CASO QUEIRA)",
-  "BannerNormal": "https://media.discordapp.net/attachments/1060766951326097448/1276619813061660861/image.png?ex=66ca3059&is=66c8ded9&hm=38d719759cb694eac9fdb474242c3873f85931a9edb25ea25be74f0fd6c857f3&=&format=webp&quality=lossless",
-  "BannerFeed": "https://media.discordapp.net/attachments/1060766951326097448/1276619727694856388/image.png?ex=66ca3045&is=66c8dec5&hm=e133dc27072084a30e1d7f079e9d93e8d96de2ef7e79ca7b24c3b9dec3795ce2&=&format=webp&quality=lossless",
-  "embedDescription": "Clique no botão para avaliar nosso serviço! É uma enorme ajuda pra gente que não vai lhe custar nem 1 minuto"
+  "feedbackChannelId": "ID_do_canal_aqui",
+  "clientRoleId": "ID_do_cargo_cliente_aqui",
+  "staffRoleId": "ID_do_cargo_staff_aqui",
+  "botImage": "https://link-da-imagem.png",
+  "embedTitle": "Avalie nosso serviço!",
+  "botName": "FeedbackBot",
+  "BannerNormal": "https://link-do-banner.png",
+  "BannerFeed": "https://link-do-banner-feedback.png",
+  "embedDescription": "Clique no botão para nos avaliar, não vai levar nem 1 minuto!"
 }
