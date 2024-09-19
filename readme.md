@@ -30,7 +30,7 @@
 ## 🎬 **Demonstração Visual**
 
 <p align="center">
-  <img src="https://s11.gifyu.com/images/SAwrA.gif" alt="Demonstração de como funciona o bot" width="700">
+  <img src="https://media.discordapp.net/attachments/1138260365310959616/1286368776350335017/0919_1.gif?ex=66eda7c7&is=66ec5647&hm=cb38041b08f1b57659f7f62329c90cd676787b1f3e05111684b2479088eb8bbf&=&width=1202&height=676" alt="Demonstração de como funciona o bot" width="700">
 </p>
 
 ---
